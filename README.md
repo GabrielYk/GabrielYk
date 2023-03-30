@@ -19,13 +19,12 @@ Meu nome é Gabriel Alvarenga Stulpen, tenho 21 anos.
 
 Atualmente estou cursando 💻Sistemas de Informação📚 (6/8) - Centro Universitário Católica do Leste de Minas Gerais.
 
-Desde criança, sempre tive um grande amor por programação💻 e Designer de jogos🎮. Foi através das linhas de código📝 dos jogos 
-que despertou em mim o interesse pela programação. 
-Esse fascínio me motivou a mergulhar ainda mais nesse mundo e estudar programação de forma mais aprofundada.📚 
+Desde criança, sempre tive um grande amor por programação💻 e design de jogos🎮. Foi através das linhas de código📝 
+dos jogos que despertou em mim o interesse pela programação. 
 
-Desde então, tenho me empenhado em aprender o máximo que posso e aprimorar minhas habilidades. ⭐Embora ainda não tenha definido 
-uma área específica de atuação, sinto-me animado com as diversas possibilidades📈 que a programação oferece e estou determinado 
-a seguir nessa jornada de aprendizado e crescimento profissional.💎 
+Desde então, tenho me empenhado em aprender o máximo que posso e aprimorar minhas habilidades.⭐Embora ainda não tenha
+definido uma área específica de atuação, sinto-me animado com as diversas possibilidades📈 que a programação oferece e 
+estou determinado a seguir nessa jornada de aprendizado e crescimento profissional.💎 
 
 ```
 
@@ -69,8 +68,8 @@ a seguir nessa jornada de aprendizado e crescimento profissional.💎
 <a> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <h4>Gabriel_#7694</h4>
 </div>
 
-
-
+<br>
+<img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif" width="100%" height="7px">
 
 
 
