@@ -1,16 +1,14 @@
 
+<img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif"  width="100%" height="7px">
 
-
-<div style="display:flex; justify-content:center;" align="center";>
-  
- <img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif" width="40%" height="7px">
-  
+<div style="display:flex; justify-content:center;" align="center" ;>
+ 
   <img src='logoGab.png'  width="95" height="95px">
-  
-   <img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif"  width="40%" height="7px">
-
-  
+ 
 </div>
+
+<img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif"  width="100%" height="7px">
+
 <br>
 
 
