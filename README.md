@@ -1,11 +1,18 @@
 
-<img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif" width="100%" height="7px">
-<p align="center">
-<img src='logoGab.png' width=100px>
-</p>
 
 
-<img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif" width="100%" height="7px">
+<div style="display:flex; justify-content:center;" align="center";>
+  
+ <img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif" width="453px" height="7px">
+  
+  <img src='logoGab.png'  width=95px height="95px">
+  
+   <img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif"  width="453px" height="7px">
+
+  
+</div>
+<br>
+
 
 ```
 Meu nome é Gabriel Alvarenga Stulpen, tenho 21 anos.
@@ -27,7 +34,7 @@ a seguir nessa jornada de aprendizado e crescimento profissional.💎
 
 
 
-<p align="center" style="color:white; font-size: 28px; font-weight:bold;">  💻Tenho conhecimento:📚 </p>
+<h2 align="center" style="color:white; font-size: 28px; font-weight:bold;">  💻Tenho conhecimento:📚 </h2>
 
 ## Linguagens de Programação 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -57,9 +64,9 @@ a seguir nessa jornada de aprendizado e crescimento profissional.💎
 
 
 <div align="center">
-<p align="center" style="color:white; font-size: 40px; font-weight:bold;" >📲 Informações de Contato 📩 </p>
+<h2 align="center" style="color:white; font-size: 40px; font-weight:bold;" >📲 Informações de Contato 📩 </h2>
 
-<a href= "mailto:gabrielstulpen@live.com"> <img src="https://img.shields.io/badge/-Email-%C71585?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <h4>Gabriel_#7694</h4>
 </div>
 
 
