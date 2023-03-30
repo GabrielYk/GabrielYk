@@ -3,11 +3,11 @@
 
 <div style="display:flex; justify-content:center;" align="center";>
   
- <img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif" width="44.5%" height="7px">
+ <img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif" width="40%" height="7px">
   
-  <img src='logoGab.png'  width="10%" height="95px">
+  <img src='logoGab.png'  width="95" height="95px">
   
-   <img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif"  width="44.5%" height="7px">
+   <img src="https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif"  width="40%" height="7px">
 
   
 </div>
